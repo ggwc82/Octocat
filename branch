@@ -1,1 +1,1 @@
-Explain what a branch is
+A branch in git is an alternate path, which allows you to make changes or commits to files in the repo that are only visible in that branch line. A branch always originates from a specific commit, so any changges amade after branching are only visible to that specific branch. Branches can be merged at a later commit provided there all conflicts, if any, are resolved.
