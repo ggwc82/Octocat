@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for
+The upstream remote is a rconnection or bookmark to a repo from which your current local repo has been forked or cloned from. It's usually used to pull changes from the remote repo into your local repo.
